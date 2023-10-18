@@ -2,11 +2,10 @@
 
 https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png = 'logo.png'
 
-logoIm = Image.open(https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png)
-logoWidth, logoHeight = logoIm.size
 
 
-<!-- PROJECT LOGO -->
+
+<!-- PROJECT LOGO -->(https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png)
 
 <br />
 
