@@ -75,7 +75,7 @@ while True:
     else :
           warn = 'alert :' 'No need to collect right now '       
     def myOnPublishCallback(lat=10.939091,long=78.135731):
-        print("Bustand, Karur")
+        print("Vidhyadhar Nagar, Jaipur")
         print("published distance = %s " %distance,"loadcell:%s " %loadcell,"lon = %s " %long,"lat = %s" %lat)
     
         print(load)
