@@ -1,8 +1,10 @@
 <div align="center">
+sq_fit_size = 300
+logo_file = 'logo.png'
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+logoIm = Image.open(logo_file)
+logoWidth, logoHeight = logoIm.size
+
 
 <!-- PROJECT LOGO -->
 
@@ -58,7 +60,10 @@ Google Cloud, Firebase, Google map , Mongodb .
 **🧮PROBLEM STATEMENT**     
 <button>
     <a href=" https://gitjaipur.com/codefiesta2-_problem_statements" >CLICK HERE!  </a>
-</button>     
+</button>  
+**🧮Website link**
+| WEBSITE | DUMPSTER    |
+| ADMIN LIVE PAGE | <button> <a href="https://chettinad.swm5.repl.co/">CLICK HERE!  </a></button>     
 📫 How to reach Us <a href = "mailto: codesprinters27@gmail.com">Connect with Email</a>
 
 
