@@ -1,8 +1,8 @@
 <div align="center">
 sq_fit_size = 300
-logo_file = 'logo.png'
+https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png = 'logo.png'
 
-logoIm = Image.open(logo_file)
+logoIm = Image.open(https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png)
 logoWidth, logoHeight = logoIm.size
 
 
