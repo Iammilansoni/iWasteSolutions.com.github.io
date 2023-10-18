@@ -1,5 +1,5 @@
 <div align="center">
-sq_fit_size = 300
+
 https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png = 'logo.png'
 
 logoIm = Image.open(https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png)
