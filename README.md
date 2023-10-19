@@ -1,5 +1,3 @@
-![image](https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/da478790-bf79-4d10-a50b-76f5682dd701)
-
 <div align="center"> 
 
 https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png = 'logo.png'
@@ -11,7 +9,6 @@ https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png 
 
 <br />
 
-  
     <img src=" https://github.com/Iammilansoni/Smart-waste-Management-.github.io-/blob/main/IBM.png " alt="Logo" width="80" height="90">
   </a>
                    
