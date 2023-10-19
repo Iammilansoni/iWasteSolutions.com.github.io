@@ -1,6 +1,4 @@
 ![image](https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/8c2224a1-1e67-4899-a21b-44022eba8691)
-
-https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png
 <br />
   </div> 
   
