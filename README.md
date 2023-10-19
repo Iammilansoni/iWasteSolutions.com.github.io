@@ -1,7 +1,8 @@
-![image](https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/4f8ef806-f950-4e20-8ea2-02e234648dcc)
+![image](https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/da478790-bf79-4d10-a50b-76f5682dd701)
+
 <div align="center"> 
 
-https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png = 'logo.png'"alt="Logo" width="50" height "50">
+https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png = 'logo.png'
 
 
 
