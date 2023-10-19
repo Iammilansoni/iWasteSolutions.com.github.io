@@ -1,5 +1,5 @@
 ![image](https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/4f8ef806-f950-4e20-8ea2-02e234648dcc)
-<div align="center">
+<div align="center"> "alt="Logo" width="50" height "50">
 
 https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png = 'logo.png'
 
