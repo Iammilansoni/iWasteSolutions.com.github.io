@@ -11,7 +11,7 @@ https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png 
 <br />
 
   
-    <img src=" https://github.com/Iammilansoni/Smart-waste-Management-.github.io-/blob/main/IBM.png " alt="Logo" width="150" height="128">
+    <img src=" https://github.com/Iammilansoni/Smart-waste-Management-.github.io-/blob/main/IBM.png " alt="Logo" width="80" height="90">
   </a>
                    
 
