@@ -1,6 +1,4 @@
-(https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/cf2f0f83-fe34-4420-9fe5-23b5d7e0a4cd)
-
-
+![image](https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/8c2224a1-1e67-4899-a21b-44022eba8691)
 https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png = 'logo.png'
 
 
