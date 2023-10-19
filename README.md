@@ -58,7 +58,7 @@ Google Cloud, Firebase, Google map , Mongodb .
 </button>  
 **🧮Website link**
 | WEBSITE | DUMPSTER    |
-| ADMIN LIVE PAGE | <button> <a href=" http://127.0.0.1:5500/index.html" </a> <button>
+| ADMIN LIVE PAGE | <button> <a href= " http://127.0.0.1:5500/index.html" </a> 
   
 📫 How to reach Us <a href = "mailto: codesprinters27@gmail.com">Connect with Email! </a>
 
