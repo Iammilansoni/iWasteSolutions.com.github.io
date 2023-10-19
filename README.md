@@ -61,7 +61,8 @@ Google Cloud, Firebase, Google map , Mongodb .
 </button>  
 **🧮Website link**
 | WEBSITE | DUMPSTER    |
-| ADMIN LIVE PAGE | <button> <a href="https://chettinad.swm5.repl.co/">CLICK HERE!  </a></button>     
+| ADMIN LIVE PAGE | <button> <a href=http://127.0.0.1:5500/index.html
+  </a></button>     
 📫 How to reach Us <a href = "mailto: codesprinters27@gmail.com">Connect with Email</a>
 
 
