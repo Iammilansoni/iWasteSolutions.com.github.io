@@ -1,4 +1,4 @@
-<div align="center"> ![image] (https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/cf2f0f83-fe34-4420-9fe5-23b5d7e0a4cd)
+<div align="center"> ![image](https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/cf2f0f83-fe34-4420-9fe5-23b5d7e0a4cd)
 
 
 https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png = 'logo.png'
