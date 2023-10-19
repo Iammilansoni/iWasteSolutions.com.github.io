@@ -1,9 +1,6 @@
 ![image](https://github.com/Iammilansoni/iWasteSolutions.com.github.io/assets/123074437/8c2224a1-1e67-4899-a21b-44022eba8691)
 
 https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png
-
-<!-- PROJECT LOGO -->(https://github.com/Iammilansoni/iWasteSolutions.com.github.io/blob/main/IBM.png)
-
 <br />
 
     <img src=" https://github.com/Iammilansoni/Smart-waste-Management-.github.io-/blob/main/IBM.png " alt="Logo" width="80" height="90">
