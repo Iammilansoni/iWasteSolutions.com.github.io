@@ -58,7 +58,19 @@ Google Cloud, Firebase, Google map , Mongodb .
 </button>  
 **🧮Website link**
 | WEBSITE | DUMPSTER    |
-| ADMIN LIVE PAGE | <button> <a href= " http://127.0.0.1:5500/index.html" </a> 
+| ADMIN LIVE PAGE | <button> <a href= 
+from hyperlink import URL
+ 
+# Creation of the Link
+url = URL(scheme='https', host='https://iammilansoni.github.io/garbage-management/')
+print(url.to_text())
+ 
+# Adding Path and Query Parameters
+url = URL(scheme='https', host='www.google.com', path=['search'], query=[('q', 'Python+programming')])
+print(https://iammilansoni.github.io/garbage-management/.to_CLICK HERE ())
+# Adding Path and Query Parameters
+url = URL(scheme='https', host='www.google.com', path=['search'], query=[('q', 'Python+programming')])
+print(url.to_text())
   
 📫 How to reach Us <a href = "mailto: codesprinters27@gmail.com">Connect with Email! </a>
 
