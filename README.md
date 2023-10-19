@@ -57,7 +57,7 @@ Google Cloud, Firebase, Google map , Mongodb .
     <a href=" https://gitjaipur.com/codefiesta2-_problem_statements" >CLICK HERE!  </a>
 </button>  
 **🧮Website link**
-| WEBSITE | DUMPSTER    |
+| WEBSITE|
 | ADMIN LIVE PAGE | <button> <a href= "https://iammilansoni.github.io/garbage-management"> CLICK HERE ! </a>
 
   
