@@ -17,7 +17,7 @@ TEAM :- CODE SPRINTERS
 GAVESH JAIN          
 MILAN SONI        
 ABHILASH JOSHI        
-TANISHQ JOSHI      
+TANISHQ Dosaya       
 ```          
 <a href="https://dumpster-beta.vercel.app" class="button icon search">DUMPSTER_our_website</a>
 
