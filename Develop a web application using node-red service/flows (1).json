@@ -1,12 +1,9 @@
 [
     {
         "id": "147146a0342debce",
-        "type": "ibmiot in",
         "z": "6ed1189c17ed0439",
-        "authentication": "apiKey",
-        "apiKey": "bf9996433728395e",
         "inputType": "evt",
-        "logicalInterface": "",
+        "logical interface": "",
         "ruleId": "",
         "deviceId": "BIN4ID",
         "applicationId": "",
@@ -37,7 +34,6 @@
     {
         "id": "bf9996433728395e",
         "type": "ibmiot",
-        "name": "Gogul",
         "keepalive": "60",
         "serverName": "",
         "cleansession": true,
